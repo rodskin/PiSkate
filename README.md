@@ -14,8 +14,8 @@ This parts list is a guide only! Feel free to use other components if they fit y
 
 | Part              | Link                                                                                                              |Cost AUD   |
 | -------------     |-------------                                                                                                      | -----:    |
-|Motor              |http://www.hobbyking.com/hobbyking/store/__18184__Turnigy_Aerodrive_SK3_6374_149kv_Brushless_Outrunner_Motor.html
-https://hobbyking.com/fr_fr/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html|$109       | 
+|Motor              |http://www.hobbyking.com/hobbyking/store/__18184__Turnigy_Aerodrive_SK3_6374_149kv_Brushless_Outrunner_Motor.html|$109| 
+|motor french|https://hobbyking.com/fr_fr/turnigy-aerodrive-sk3-6374-149kv-brushless-outrunner-motor.html|86€|
 |Recommended ESC    |http://tinyurl.com/z2v9pqk                                                                                         |$120*      |
 |Pi 3               |http://au.element14.com/raspberry-pi/raspberrypi-modb-1gb/raspberry-pi-3-model-b/dp/2525226                        |$56        |
 |2 x LiPo's         |http://www.hobbyking.com/hobbyking/store/__7635__ZIPPY_Flightmax_2200mAh_3S1P_30C.html                             |2 x $18.37 | 
